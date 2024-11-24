@@ -1,4 +1,4 @@
-# Data Project
+# Data Project: Inventory Management Analysis
 ![Logo](https://github.com/SammieBarasa77/ab_testing/blob/main/assets/images/Screenshot%202024-11-23%20222057.png)
 
 Table of Contents
