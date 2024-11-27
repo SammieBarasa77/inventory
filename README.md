@@ -1,5 +1,5 @@
 # Data Project: Inventory Management Analysis
-![Logo](https://github.com/SammieBarasa77/ab_testing/blob/main/assets/images/Screenshot%202024-11-23%20222057.png)
+![Logo](https://github.com/SammieBarasa77/walmart_sales/blob/main/assets/images/cover_final.png)
 
 Table of Contents
 - [Introduction](#introduction)  
@@ -343,6 +343,12 @@ ORDER BY total_spent DESC;
 ```
 
 ![Puchasing Behavior](https://github.com/SammieBarasa77/inventory/blob/main/assets/images/purchasing_behavior.png)
+
+### Dashboard
+
+Download the Power BI dashboard file from this path: 'https://github.com/SammieBarasa77/inventory/blob/main/assets/docs/Inventory%20Analytics%20Report.pbix'
+
+See the Tableau Dashboard from here: 'https://public.tableau.com/app/profile/samuel.barasa/viz/Inventory_17320496964030/Dashboard1'
 
 ## Findings, Recommendations, Insights, and Conclusion
 
